@@ -115,6 +115,9 @@ install_chromedriver()
 !python3 -m pyChatGPT
 ```
 
+Try it out in colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g8vrXrsi1srjdvNiAGwPk9G8NkKbcV_N#scrollTo=0zJ_bFh0G5mD)
+
+
 ## Insipration
 
 This project is inspired by
